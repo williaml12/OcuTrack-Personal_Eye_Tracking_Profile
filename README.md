@@ -1,6 +1,6 @@
 # “OcuTrack”: Personal Eye Tracking Profile (Eye Tracking)
 - Plan and estimate development tasks and work to improve performance metrics
-Work closely with other engineers to develop the best technical design and approach for new product development
+- Work closely with other engineers to develop the best technical design and approach for new product development
 Take complete ownership of his or her development work
 Design, develop, troubleshoot, and debug mission-critical software source code using modern software development languages and tools, such as Python or Java
 Demonstrates working knowledge of OcuTrack Development
