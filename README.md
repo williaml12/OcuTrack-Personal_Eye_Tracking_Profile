@@ -1,4 +1,4 @@
-# “OcuTrack”: Personal Eye Tracking Profile (Eye Tracking)
+# “OcuTrack”: Personal Eye Tracking Profile
 - Plan and estimate development tasks and work to improve performance metrics
 - Work closely with other engineers to develop the best technical design and approach for new product development
 - Take complete ownership of his or her development work
